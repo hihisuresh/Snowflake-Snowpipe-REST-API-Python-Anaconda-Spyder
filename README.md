@@ -11,6 +11,8 @@ https://docs.snowflake.com/en/user-guide/data-load-snowpipe-rest-overview.html
 
 https://docs.snowflake.com/en/user-guide/data-load-snowpipe-rest-load.html#sample-program-for-the-python-sdk
 
+Installing Snowflake Python package - Pip Install
+
 1.	Create PIPE
 See  previous posts
 https://docs.snowflake.com/en/user-guide/data-load-snowpipe-rest-gs.html
