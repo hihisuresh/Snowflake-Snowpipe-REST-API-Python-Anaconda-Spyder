@@ -2,9 +2,13 @@
 Load data to Snowflake table  using Snowpipe REST API  - Python Program running in Anaconda/Spyder 
 
 See the attached document for detailed screenshots
-<a href="https://www.w3schools.com">Visit W3Schools</a>
+<a href="https://github.com/hihisuresh/Snowflake-Snowpipe-REST-API-Python-Anaconda-Spyder/blob/master/SnowpipeRESTAPI.docx">SnowpipeRESTAPI.docx</a>
+
+
 Refer:
+
 https://docs.snowflake.com/en/user-guide/data-load-snowpipe-rest-overview.html
+
 https://docs.snowflake.com/en/user-guide/data-load-snowpipe-rest-load.html#sample-program-for-the-python-sdk
 
 1.	Create PIPE
