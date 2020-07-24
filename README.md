@@ -14,8 +14,11 @@ https://docs.snowflake.com/en/user-guide/data-load-snowpipe-rest-load.html#sampl
 1.	Create PIPE
 See  previous posts
 https://docs.snowflake.com/en/user-guide/data-load-snowpipe-rest-gs.html
+
 https://github.com/hihisuresh/Snowflake-Snowpipe-AWSS3-AWSSQS
+
 https://github.com/hihisuresh/AWS-S3-External-Stage-For-Snowflake
+
 
 2.	Create  RSA Pubic/Private Key pair with encryption (i.e with PASSPHRASE)
 
