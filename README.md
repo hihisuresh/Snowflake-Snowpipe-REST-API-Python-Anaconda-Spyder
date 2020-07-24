@@ -1,4 +1,4 @@
-# Snowflake-Snowpipe-REST-API-Python-Anaconda-Spyder
+# Snowflake Snowpipe REST API calls using Python Program running in Anaconda/Spyder
 Load data to Snowflake table  using Snowpipe REST API  - Python Program running in Anaconda/Spyder 
 
 See the attached document for detailed screenshots
